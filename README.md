@@ -6,7 +6,7 @@ This project demonstrates an end-to-end data pipeline built using Microsoft Fabr
 
 ## 📸 Dashboard Preview
 
-![Dashboard](powerbi-report/screenshots/your-image-name.png)
+![Dashboard](powerbi-report/screenshots/weather_pbi_dashboard.png)
 
 ---
 
