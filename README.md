@@ -4,6 +4,10 @@
 
 This project demonstrates an end-to-end data pipeline built using Microsoft Fabric. It ingests weather data from an external API, processes it through a Lakehouse and Warehouse, and visualizes insights using Power BI with DirectLake.
 
+## 📸 Dashboard Preview
+
+![Dashboard](powerbi-report/screenshots/your-image-name.png)
+
 ---
 
 ## 🧱 Architecture
