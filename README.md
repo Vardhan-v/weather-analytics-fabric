@@ -12,7 +12,7 @@ This project demonstrates an end-to-end data pipeline built using Microsoft Fabr
 
 ## 🧱 Architecture
 
-*(Diagram coming soon)*
+![Architecture](architecture/architecture-diagram.jpg)
 
 ---
 
