@@ -1,8 +1,8 @@
 # Warehouse SQL Queries
 
-  ## Aggregation Queries
+## Aggregation Queries
 
-  ### Aggregates by Date
+### Aggregates by Date
   
 SELECT
     Date,
